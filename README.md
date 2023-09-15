@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ensar Mehmedovic</h1>
-<h3 align="center">A passionate software developer from Vienna</h3>
+<h3 align="center">A passionate frontend / software developer from Vienna</h3>
 
 - 🔭 I’m currently working on [Crypto-Moon](https://crypto-moon-e93ab.web.app/)
 
