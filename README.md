@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Tailwind Css**
 
-- 👨‍💻 All of my projects are available at [https://ensar-mehmedovic.netlify.app/](https://ensar-mehmedovic.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://ensar-mehmedovic.netlify.app/](https://ensar-mehmedovic.netlify.app/)
   
 - 📫 How to reach me **ensar.m021@gmail.com**
 
